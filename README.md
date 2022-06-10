@@ -16,7 +16,7 @@ I am a Software Engineering Student who is passionate about learning new tools a
 
 ### Languages and Tools
 
-Field | Languages and Tools
+Field | Languages, Frameworks and Tools
 :---: | :---
 Frontend Development | ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) 
 Backend Development |  ![NestJs](https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg) <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" alt="Spring Boot" width="45" height="45" style="vertical-align:top; margin:4px">   ![Symfony](https://img.icons8.com/color/48/000000/symfony.png) 
