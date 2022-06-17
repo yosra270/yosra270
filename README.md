@@ -9,8 +9,7 @@ I am a Software Engineering Student who is passionate about learning new tools a
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;DevOps+Engineer;Data+Science+and+Artificial+Intelligence+enthusiast&center=false&width=500&height=50">
 </a>
 
-
-* :sparkle: I am interested in a lot of fields such as **Fullstack Web Development**, **DevOps**, **Big Data**, **Data Mining**, **Artificial Intelligence** and **Software Architecture** 😄
+* :sparkle: I am interested in a lot of fields such as **Full-stack Web Development**, **DevOps**, **Big Data**, **Data Science & Analytics**, **Artificial Intelligence** and **Software Architecture** 🤖
 - :beginner: I’m currently learning Deep Learning
 - 👯 I’m looking to collaborate on any project related to web development and machine learning
 
