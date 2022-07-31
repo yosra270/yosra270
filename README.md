@@ -1,5 +1,5 @@
 ### Hi there, I'm Yosra DRIDI 👋
-[![Linkedin](https://img.shields.io/badge/-yosra.dridi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yosra-dridi-/) [![Gmail](https://img.shields.io/badge/-yosra.dridi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yosra.dridi@insat.ucar.tn
+[![Linkedin](https://img.shields.io/badge/-yosra.dridi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yosra-dridi/) [![Gmail](https://img.shields.io/badge/-yosra.dridi-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yosra.dridi@insat.ucar.tn
 ) 
 
 I am a Software Engineering Student who is passionate about learning new tools and technologies!
